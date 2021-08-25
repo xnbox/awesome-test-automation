@@ -42,7 +42,6 @@ Also:
 * [RedwoodHQ](https://github.com/dmolchanenko/RedwoodHQ) - RedwoodHQ is a free Open Source test automation framework that allows multiple users to develop automation code, create readable action/keyword driven test cases and execute them all under a single Web interface.
 
 ## API testing
-
 * [Postman REST Client](https://www.npmjs.com/package/postman-bdd) - The Postman REST client allows you to write tests for your APIs, such as ensuring that your endpoints return the proper HTTP status codes, headers, and content. It even has has a built-in test runner that makes it easy to run all of your tests and immediately see the results. And you can use the Newman command-line tool to automate your tests and integrate them into your CI and deployment pipeline.
 * [StREST](https://github.com/eykrehbein/strest) - StREST is an open-source tool to set up tests for REST api's in seconds with YAML configuration files. StREST allows you to connect multiple requests by using values from previous requests in future requests. StREST also gives you a flexible validation framework for responses, allows using special headers, and can be configured to test APIs with random input or env vars.
 * [SoapUI](https://www.soapui.org/) - SoapUI is an open-source web service testing application for service-oriented architectures (SOA) and REST. Its functionality covers web service inspection, invoking, development, simulation and mocking, functional testing, load and compliance testing.
@@ -54,6 +53,7 @@ Also:
 * [GMeter](https://github.com/hexdigest/gmeter) - GMeter is an open-source standalone HTTP reverse-proxy server for recording and replaying HTTP requests. GMeter allows you to record multiple HTTP requests made within one test case to a "cassette" and to use this cassette to mock downstream service later on.
 * [Insomnia](https://insomnia.rest/) provides workflows and tools to make API Development Easier.
 * [Apitest](https://github.com/sigoden/apitest) - Apitest is declarative api testing tool with JSON-like DSL for easy testing of REST services.
+* [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 
 ## Performance and load testing
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
